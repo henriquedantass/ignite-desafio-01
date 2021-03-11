@@ -19,14 +19,12 @@ yarn dev
 <h1 align="center">
 { Task List }
 </h1>
-
-
-
-
+ 
 <br>
 
 <p align="center">
   
+  <img alt="tasklist" src="tasklist.png" width="100%">
 
 </p>
 
