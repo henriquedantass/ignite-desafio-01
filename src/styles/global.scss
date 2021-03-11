@@ -1,5 +1,5 @@
 :root {
-  --blue: #273FAD;
+  --blue: #1770f0;
   --green: #3FAD27;
   --red: 	#ad273f;
   --background: #EBEBEB;
@@ -7,6 +7,11 @@
   --text-title: #3D3D4D;
   --text: #1C1C29;
   --text-light: #A09CB1;
+  --text-blue: #1770f0;
+}
+
+html {
+  background-color: #1b1f23;
 }
 
 * {
