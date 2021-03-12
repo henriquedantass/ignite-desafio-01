@@ -8,7 +8,7 @@ git clone https://github.com/henriquedantass/tasklist-ignite.git
 ```
 
 
-Primeiro, inicie o servidor com os seguintes comandos em seu terminal:
+Depois  inicie o servidor com os seguintes comandos em seu terminal:
 
 ```bash
 npm run dev
@@ -20,6 +20,13 @@ yarn dev
 { Task List }
 </h1>
  
+<br>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
 <br>
 
 <p align="center">
